@@ -26,6 +26,7 @@ credentials = service_account.Credentials.from_service_account_file(
 
 
 # The ID and range of a sample spreadsheet.
+# https://docs.google.com/spreadsheets/d/1EP5vIR5Im0UDW_0CrGONS6NxvV8jDN9JtbbXhWWE6sY/edit#gid=0
 SAMPLE_SPREADSHEET_ID = '1EP5vIR5Im0UDW_0CrGONS6NxvV8jDN9JtbbXhWWE6sY'
 #SAMPLE_RANGE_NAME = 'Class Data!A2:E'
 
